@@ -1,5 +1,4 @@
 # JAKPORTAL
-# JAK Portal
 
 JAK Portal is a college ERP platform developed to streamline academic and departmental operations. The system provides functionalities such as attendance tracking, internal mark management, document uploads, and student information access through a centralized web interface.
 
